@@ -4,11 +4,20 @@ Maecenas mauris eros, sollicitudin at elit in,
 pellentesque
 mattis orci. Aliquam elementum finibus dictum.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 CHANGED BY CONTRIBUTOR
 
 =======
 CHANGED BY MAINTAINER
 >>>>>>> 739d31d (changing the data in files 2 and 3)
+=======
+CHANGED BY MAINTAINER
+=======
+
+CHANGED BY CONTRIBUTOR
+
+>>>>>>> 01e9821 (Adding file2.txt)
+>>>>>>> c811b37 (Rebase the PR)
 Integer ac nibh nec est porttitor semper ultrices eu
 ligula. Etiam sodales porttitor venenatis.
