@@ -1,8 +1,12 @@
 Quisque nec lectus viverra, tempus mi molestie, posuere
 mauris. Nam iaculis ac eros eget bibendum. Phasellus
 egestas fringilla libero sed viverra.
+<<<<<<< HEAD
 Proin hendrerit convallis nibh ac gravida. Integer
 placerat
 accumsan nibh, vitae bibendum urna ullamcorper in.
 
 ADDED BY CONTRIBUTOR
+=======
+CHANGED BY MAINTAINER
+>>>>>>> 739d31d (changing the data in files 2 and 3)
